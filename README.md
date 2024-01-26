@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me? Email：xx312472644@163.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+### GitHub stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=312472644&count_private=true&show_icons=true&theme=radical)
+
+### Top langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=312472644&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
