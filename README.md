@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anonymous+Pro&weight=800&pause=1000&color=1677B3&center=true&random=false&width=435&lines=Console.log('Hello+World'))](https://git.io/typing-svg)
-
 ### Hi! Nice to meet you!
 
 - 🔭 I’m currently working on ...
